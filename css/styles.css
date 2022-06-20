@@ -431,6 +431,7 @@ body {
 .customers-soc-link:hover,
 .customers-soc-link:focus {
     color: var(--accent-color);
+    border-color: var(--accent-color);
 }
 
 
